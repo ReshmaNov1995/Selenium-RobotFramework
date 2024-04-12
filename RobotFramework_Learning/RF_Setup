@@ -1,0 +1,8 @@
+While install the Robot Framework, Libraries will get downloaded automatically. we need to import in the project if requires.
+IDE is required for using robot framework. Pycharm can be used as IDE, while install Intellibot.
+  
+Setup starts from playlist's 1st video of 9.03 secs.
+
+Installation:
+Install Robot Framework
+Install Robot Framework Selenium library.

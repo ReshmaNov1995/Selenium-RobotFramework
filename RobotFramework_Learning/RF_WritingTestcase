@@ -1,0 +1,15 @@
+While use new project, It requires selenium, robotframework, robotframework-seleniumlibrary.
+pycharm->settings->project->choose the project->project interpreter->search those 3 libraries and click on "Install Packages".
+extension of testcase -> .robot
+Browser drivers need to be installed prior.
+
+There are sections while writing Testcase - Settings, Variables, Test Cases, Keywords.
+In keyword section, own keyword can be created.
+These sections can be used in same file or the different file.
+Sections are mandatory. content is non mandatory.
+Here instead space, tab has to given.
+
+Robot framework can run only via terminal.
+Ex: robot directoryname/filenamewithextension
+
+Robot Framework keyword reference-> https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html

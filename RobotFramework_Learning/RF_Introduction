@@ -1,0 +1,6 @@
+Robot Framework is a generic test automation framework for acceptance testing.
+Acceptance-test driven development(ATDD) Framework
+It utilizes the keyword driven testing approach
+Provides test libraries implemented either with python/java, and users can create new higher level keywords 
+from existing ones using the same syntax that is used for creating test cases.
+Not much programming is required.
